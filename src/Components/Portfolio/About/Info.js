@@ -7,7 +7,7 @@ const Info = () => {
   return (
     <div className="info-card">
       <div className="profile-img">
-        <img className="profile-pic" src={profile_pic} alt="Yajat Malhotra"/>
+        <img className="profile-pic" src={profile_pic} alt="Satria Beratha"/>
       </div>
       <div className="about-me">
         <h1>Putu Satria Beratha</h1>
