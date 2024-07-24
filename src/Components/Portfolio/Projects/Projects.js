@@ -38,10 +38,10 @@ const Projects = ({openMenu}) => {
     },
     {
       id: 5,
-      title: "ABCD: EFGHIJKLMG HIJKLMNOPQ RSTUVWXYZ",
-      description: "",
-      link: "",
-      show: false,
+      title: "Publications",
+      description: "title: Classification Prediction of Heart Disease Using Machine Learning Techniques",
+      link: "https://ieeexplore.ieee.org/document/10284676/references#references",
+      show: true,
     },
     {
       id: 6,
