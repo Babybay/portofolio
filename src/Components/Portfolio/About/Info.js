@@ -19,7 +19,7 @@ const Info = () => {
         <div className="social-icons">
           <a
             className="social-icon"
-            href="https://www.linkedin.com/in/satria-beratha-ba1098257/"
+            href="https://www.linkedin.com/in/putu-satria-beratha-584258316/"
             target="_blank"
             rel="noreferrer"
           >
