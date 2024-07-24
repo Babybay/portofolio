@@ -14,7 +14,7 @@ const App = () => {
       <ParticleBackground />
       <Intro
         name="Putu Satria Beratha"
-        designation="Undergraduate Student RAWRRR"
+        designation="Undergraduate Student at BINUS University"
         onExplore={openPortfolio}
       />
       {portfolio ? <Portfolio onClose={openPortfolio} /> : ""}
